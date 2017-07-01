@@ -1,4 +1,9 @@
 # CompareAngular
+This project is a comparison between Angular, React and Vue.js/ You can find the other projects here:
+
+[compare-react](https://github.com/ordazgustavo/compare-react)
+
+[compare-vue](https://github.com/ordazgustavo/compare-vue)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
 
